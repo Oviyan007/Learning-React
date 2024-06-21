@@ -77,6 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to contact me at [oviyan.btech@gmail.com].
 
+[View the Live Site ](https://qrcodegeneratorovn.netlify.app/)
 ---
 
 Feel free to modify this as needed!
